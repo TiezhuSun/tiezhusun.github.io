@@ -1,6 +1,6 @@
 ### Books
 
-- **Tiezhu Sun**, Nadia Daoudi, Kevin Allix, Jordan Samhi, Kisub Kim, Xin Zhou, Abdoul Kader Kabore, Dongsun Kim, David Lo, Tegawendé François Bissyandé, and Jacques Klein (**2024**). **Android Malware Detection Based on Novel Representations of Apps**. In *Malware: Handbook of Prevention and Detection*, pages 197–212, Springer Nature Switzerland.
+- **Tiezhu Sun**, Nadia Daoudi, Kevin Allix, Jordan Samhi, Kisub Kim, Xin Zhou, Abdoul Kader Kabore, Dongsun Kim, David Lo, Tegawendé François Bissyandé, and Jacques Klein (**2024**). Android Malware Detection Based on Novel Representations of Apps. In <strong>*Malware: Handbook of Prevention and Detection*</strong>, pages 197–212, Springer Nature Switzerland.
 
 ### Papers
 
