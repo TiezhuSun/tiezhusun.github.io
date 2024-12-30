@@ -1,0 +1,4 @@
+- **AFR PhD Grant (17046335)** – Funded by **Fonds National de la Recherche (FNR), Luxembourg**
+  - Funding for Ph.D. (38 months) – *Learning Android App Representations*
+  - Total Funding: **144.0k€**
+  - Duration: **March 2022 – April 2025**
