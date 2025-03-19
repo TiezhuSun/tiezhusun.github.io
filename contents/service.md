@@ -6,6 +6,7 @@
 #### Journal Referee
 
 - *Empirical Software Engineering* (Springer)
+- *IEEE’s Transactions on Dependable and Secure Computing*
 - *Cluster Computing: The Journal of Networks, Software Tools and Applications* (Springer)
 
 #### Conference Reviewer

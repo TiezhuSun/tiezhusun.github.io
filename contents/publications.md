@@ -4,7 +4,7 @@
 
 ### Papers
 
-- Weiguo Pian, Yinghua Li, Haoye Tian, **Tiezhu Sun**, Yewei Song, Xunzhu Tang, Andrew Habib, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **You Don’t Have to Say Where to Edit! Joint Learning to Localize and Edit Source Code**. *ACM Transactions on Software Engineering and Methodology (TOSEM)*.
+- Weiguo Pian, Yinghua Li, Haoye Tian, **Tiezhu Sun**, Yewei Song, Xunzhu Tang, Andrew Habib, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **You Don’t Have to Say Where to Edit! Joint Learning to Localize and Edit Source Code**. *ACM Transactions on Software Engineering and Methodology (TOSEM)*. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712187) | [**Code**](https://github.com/weiguoPian/Code_Edit_Joint_Learning)
 
 - **Tiezhu Sun**, Nadia Daoudi, Weiguo Pian, Kisub Kim, Kevin Allix, Tegawendé F. Bissyandé, and Jacques Klein (**2024**). **Temporal-Incremental Learning for Android Malware Detection**. *ACM Transactions on Software Engineering and Methodology (TOSEM)*. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3702990) | [**Code**](https://github.com/Trustworthy-Software/TIML)
 
