@@ -1,9 +1,12 @@
 ### Books
-
 - **Tiezhu Sun**, Nadia Daoudi, Kevin Allix, Jordan Samhi, Kisub Kim, Xin Zhou, Abdoul Kader Kabore, Dongsun Kim, David Lo, Tegawendé François Bissyandé, and Jacques Klein (**2024**). Android Malware Detection Based on Novel Representations of Apps. In <strong>*Malware: Handbook of Prevention and Detection*</strong>, pages 197–212, Springer Nature Switzerland.
 
 ### Papers
-- Xunzhu Tang, Jiechao Gao, Jin Xu, **Tiezhu Sun**, Yewei Song, Saad Ezzini, Wendkûuni C. Ouédraogo, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **SynFix: Dependency-Aware Program Repair via RelationGraph Analysis**. *ACL 2025 Findings*. [**Paper**](#) | [**Code**](#)
+- **Tiezhu Sun**, Marco Alecci, Aleksandr Pilgun, Yewei Song, Xunzhu Tang, Jordan Samhi, Tegawendé F. Bissyandé, and Jacques Klein (**2025**). **MalLoc: Toward Fine-grained Android Malicious Payload Localization via LLMs**. *41st International Conference on Software Maintenance and Evolution (ICSME 2025), Auckland, New Zealand*. [**Paper**](#) | [**Code**](https://github.com/Trustworthy-Software/MalLoc)
+
+- Xunzhu Tang, **Tiezhu Sun**, Yewei Song, Siyuan Ma, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **ExpertCache: GPU-Efficient MoE Inference through Reinforcement Learning-Guided Expert Selection**. *41st International Conference on Software Maintenance and Evolution (ICSME 2025), Auckland, New Zealand*. [**Paper**](#) | [**Code**](#)
+
+- Xunzhu Tang, Jiechao Gao, Jin Xu, **Tiezhu Sun**, Yewei Song, Saad Ezzini, Wendkûuni C. Ouédraogo, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **SynFix: Dependency-Aware Program Repair via RelationGraph Analysis**. *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Findings*. [**Paper**](#) | [**Code**](#)
 
 - Weiguo Pian, Yinghua Li, Haoye Tian, **Tiezhu Sun**, Yewei Song, Xunzhu Tang, Andrew Habib, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **You Don’t Have to Say Where to Edit! Joint Learning to Localize and Edit Source Code**. *ACM Transactions on Software Engineering and Methodology (TOSEM)*. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712187) | [**Code**](https://github.com/weiguoPian/Code_Edit_Joint_Learning)
 
