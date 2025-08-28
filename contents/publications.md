@@ -2,11 +2,15 @@
 - **Tiezhu Sun**, Nadia Daoudi, Kevin Allix, Jordan Samhi, Kisub Kim, Xin Zhou, Abdoul Kader Kabore, Dongsun Kim, David Lo, Tegawendé François Bissyandé, and Jacques Klein (**2024**). Android Malware Detection Based on Novel Representations of Apps. In <strong>*Malware: Handbook of Prevention and Detection*</strong>, pages 197–212, Springer Nature Switzerland.
 
 ### Papers
+- **Tiezhu Sun**, Marco Alecci, Yewei Song, Xunzhu Tang, Kisub Kim, Jordan Samhi, Tegawendé F. Bissyandé, and Jacques Klein (**2025**). **RAML: Toward Retrieval-Augmented Localization of Malicious Payloads in Android Apps**. *40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Seoul, South Korea*. [**Paper**](#) | [**Code**](https://github.com/Trustworthy-Software/RAML)
+
+- Yewei Song, **Tiezhu Sun**, Xunzhu Tang, Prateek Kumar Rajput, Tegawendé F. Bissyandé, and Jacques Klein (**2025**). **Measuring LLM Code Generation Stability via Structural Entropy**. *40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Seoul, South Korea*. [**Paper**](https://arxiv.org/abs/2508.14288) | [**Code**](https://github.com/Etamin/SCE.git)
+
 - **Tiezhu Sun**, Marco Alecci, Aleksandr Pilgun, Yewei Song, Xunzhu Tang, Jordan Samhi, Tegawendé F. Bissyandé, and Jacques Klein (**2025**). **MalLoc: Toward Fine-grained Android Malicious Payload Localization via LLMs**. *41st International Conference on Software Maintenance and Evolution (ICSME 2025), Auckland, New Zealand*. [**Paper**](#) | [**Code**](https://github.com/Trustworthy-Software/MalLoc)
 
-- Xunzhu Tang, **Tiezhu Sun**, Yewei Song, Siyuan Ma, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **ExpertCache: GPU-Efficient MoE Inference through Reinforcement Learning-Guided Expert Selection**. *41st International Conference on Software Maintenance and Evolution (ICSME 2025), Auckland, New Zealand*. [**Paper**](#) | [**Code**](#)
+- Xunzhu Tang, **Tiezhu Sun**, Yewei Song, Siyuan Ma, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **ExpertCache: GPU-Efficient MoE Inference through Reinforcement Learning-Guided Expert Selection**. *41st International Conference on Software Maintenance and Evolution (ICSME 2025), Auckland, New Zealand*. [**Paper**](#) | [**Code**](https://github.com/Daniel4SE/expertcache)
 
-- Xunzhu Tang, Jiechao Gao, Jin Xu, **Tiezhu Sun**, Yewei Song, Saad Ezzini, Wendkûuni C. Ouédraogo, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **SynFix: Dependency-Aware Program Repair via RelationGraph Analysis**. *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Findings*. [**Paper**](#) | [**Code**](#)
+- Xunzhu Tang, Jiechao Gao, Jin Xu, **Tiezhu Sun**, Yewei Song, Saad Ezzini, Wendkûuni C. Ouédraogo, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **SynFix: Dependency-Aware Program Repair via RelationGraph Analysis**. *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Findings*. [**Paper**](https://aclanthology.org/2025.findings-acl.252.pdf) | [**Code**](https://github.com/Daniel4SE/SynFixCode)
 
 - Weiguo Pian, Yinghua Li, Haoye Tian, **Tiezhu Sun**, Yewei Song, Xunzhu Tang, Andrew Habib, Jacques Klein, and Tegawendé F. Bissyandé (**2025**). **You Don’t Have to Say Where to Edit! Joint Learning to Localize and Edit Source Code**. *ACM Transactions on Software Engineering and Methodology (TOSEM)*. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712187) | [**Code**](https://github.com/weiguoPian/Code_Edit_Joint_Learning)
 
@@ -26,10 +30,10 @@
 
 - **Tiezhu Sun**, Nadia Daoudi, Kevin Allix, and Tegawendé F. Bissyandé (**2021**). **Android malware detection: looking beyond dalvik bytecode**. *2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops (A-Mobile@ASE)*. [**Paper**](https://orbilu.uni.lu/bitstream/10993/48892/1/2021200114.pdf) | [**Code**](https://github.com/Trustworthy-Software/Looking-beyond-Dalvik-Bytecode)
 
-- Xunzhu Tang, Rujie Zhu, **Tiezhu Sun**, and Shi Wang (**2021**). **Moto: Enhancing embedding with multiple joint factors for Chinese text classification**. *The 25th International Conference on Pattern Recognition (ICPR)*. [**Paper**](https://arxiv.org/pdf/2212.08105)
+- Xunzhu Tang, Rujie Zhu, **Tiezhu Sun**, and Shi Wang (**2021**). **Moto: Enhancing embedding with multiple joint factors for Chinese text classification**. *The 25th International Conference on Pattern Recognition (ICPR)*. [**Paper**](https://arxiv.org/pdf/2212.08105) | [**Code**](#)
 
-- Xunzhu Tang, **Tiezhu Sun**, Rujie Zhu, and Shi Wang (**2021**). **CKG: Dynamic representation based on context and knowledge graph**. *25th International Conference on Pattern Recognition (ICPR)*. [**Paper**](https://arxiv.org/pdf/2212.04909)
+- Xunzhu Tang, **Tiezhu Sun**, Rujie Zhu, and Shi Wang (**2021**). **CKG: Dynamic representation based on context and knowledge graph**. *25th International Conference on Pattern Recognition (ICPR)*. [**Paper**](https://arxiv.org/pdf/2212.04909) | [**Code**](#)
 
-- Mingxin Zhang, Zhijie Wang, **Tiezhu Sun**, and Xiaolei Li (**2019**). **Salient object detection by pyramid networks with gating**. *2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)*.
+- Mingxin Zhang, Zhijie Wang, **Tiezhu Sun**, and Xiaolei Li (**2019**). **Salient object detection by pyramid networks with gating**. *2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. [**Paper**](#) | [**Code**](#)
 
-- **Tiezhu Sun**, Wei Zhang, Zhi-Jie Wang, Lin Ma, and Zequn Jie (**2018**). **Image-level to Pixel-wise Labeling: From Theory to Practice**. *The 27th International Joint Conference on Artificial Intelligence (IJCAI)*. [**Paper**](https://forestlinma.com/welcome_files/Tiezhu_Sun_Image-leve_to_Pixel-wise_Labeling_via_IJCAI_2018.pdf)
+- **Tiezhu Sun**, Wei Zhang, Zhi-Jie Wang, Lin Ma, and Zequn Jie (**2018**). **Image-level to Pixel-wise Labeling: From Theory to Practice**. *The 27th International Joint Conference on Artificial Intelligence (IJCAI)*. [**Paper**](https://forestlinma.com/welcome_files/Tiezhu_Sun_Image-leve_to_Pixel-wise_Labeling_via_IJCAI_2018.pdf) | [**Code**](#)
