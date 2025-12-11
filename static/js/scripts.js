@@ -62,4 +62,14 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
+    // Last updated footer
+    const lastUpdated = document.getElementById('last-updated');
+    if (lastUpdated) {
+        const updatedDate = new Date(document.lastModified);
+        lastUpdated.innerHTML = `Last updated on ${updatedDate.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric'
+        })}`;
+    }
 }); 

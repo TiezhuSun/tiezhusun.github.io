@@ -8,11 +8,13 @@
 #### Journal Referee
 
 - *Empirical Software Engineering* (Springer)
-- *IEEE’s Transactions on Dependable and Secure Computing*
+- *IEEE Transactions on Dependable and Secure Computing*
+- *ACM Transactions on Privacy and Security*
 - *Cluster Computing: The Journal of Networks, Software Tools and Applications* (Springer)
 
 #### External Reviewer
 
+- *FSE 2026* – The ACM International Conference on the Foundations of Software Engineering
 - *ASE 2025* – The 40th IEEE/ACM International Conference on Automated Software Engineering
 - *ISSTA 2025* – The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis
 - *ICSE 2025* – The 47th IEEE/ACM International Conference on Software Engineering
