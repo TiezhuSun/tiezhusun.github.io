@@ -1,16 +1,16 @@
+#### Journal Referee
+
+- *IEEE Transactions on Dependable and Secure Computing*
+- *ACM Transactions on Privacy and Security*
+- *Empirical Software Engineering* (Springer Nature)
+- *Software Quality Journal* (Springer Nature)
+
 #### Program Committee
 
 - *AAAI 2026* - The 40th Annual AAAI Conference on Artificial Intelligence
 - *MOBILESoft 2025* – The 12th International Conference on Mobile Software Engineering and Systems
 - *ICPR 2022* – The 26th International Conference on Pattern Recognition
 - *NLPCC 2022* - The 11th CCF International Conference on Natural Language Processing and Chinese Computing
-
-#### Journal Referee
-
-- *Empirical Software Engineering* (Springer)
-- *IEEE Transactions on Dependable and Secure Computing*
-- *ACM Transactions on Privacy and Security*
-- *Cluster Computing: The Journal of Networks, Software Tools and Applications* (Springer)
 
 #### External Reviewer
 
