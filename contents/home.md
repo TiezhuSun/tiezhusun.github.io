@@ -1,8 +1,8 @@
 
 I am a Research Associate at the [University of Luxembourg](https://www.uni.lu/en/), in the Interdisciplinary Centre for Security, Reliability and Trust ([SnT](https://www.uni.lu/snt-en/)). As a member of the Trustworthy Software Engineering ([TruX](https://www.uni.lu/snt-en/research-groups/trux/)) Research Group, I collaborate closely with [Prof. Jacques Klein](https://jacquesklein2302.github.io/) and [Prof. Tegawendé F. Bissyandé](https://bissyande.github.io/). My research focuses on harnessing Artificial Intelligence to automate processes and enhance practices in software engineering and cybersecurity. Before assuming my current position, I completed my Ph.D. at the University of Luxembourg under the guidance of [Prof. Jacques Klein](https://jacquesklein2302.github.io/), [Prof. Tegawendé F. Bissyandé](https://bissyande.github.io/), and external supervisor [Prof. Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan/), during which I served as a Doctoral Researcher.
 
-#### Email:
-<a href="mailto:firstname.lastname&#64;outlook.com">tiezhu.sun&#64;outlook.com</a>
+<!-- #### Email:
+<a href="mailto:firstname.lastname&#64;outlook.com">tiezhu.sun&#64;outlook.com</a> -->
 
 #### Profiles: 
 <!-- <div> 
@@ -37,7 +37,4 @@ I am a Research Associate at the [University of Luxembourg](https://www.uni.lu/e
 <div><br>
 
 #### Research Interests:
-- AI4SE  
-- AI4Cybersecurity  
-- Malware Learning  
-- LLMs
+*AI4SE*, *AI4Cybersecurity*, *Malware Learning*, *LLMs*

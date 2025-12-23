@@ -7,6 +7,7 @@
 
 #### Program Committee
 
+- *AMASS 2026* - Workshop on Advances in Malware Analysis and Software Security (co-located with ACM ASIACCS 2026)
 - *AAAI 2026* - The 40th Annual AAAI Conference on Artificial Intelligence
 - *MOBILESoft 2025* – The 12th International Conference on Mobile Software Engineering and Systems
 - *ICPR 2022* – The 26th International Conference on Pattern Recognition

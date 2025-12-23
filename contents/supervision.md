@@ -1,5 +1,5 @@
 ### Ph.D. Sudents
-- TBD
+- To be added.
 
 ### Master's Sudents
 - #### *Suraj Govind Maurya*

@@ -1,0 +1,15 @@
+
+- **[Feb 2026]** 🚀 Joining the **Luxembourg Institute of Science and Technology (LIST)** as an R&T Scientist.
+- **[Dec 2025]** ✍️ Delighted to have my story, *"Becoming a Researcher 👨‍🔬, Becoming a Father 🏡"*, featured in *[Backpropagate](https://www.backpropagate.me/p/tell-me-a-story-4-becoming-a-researcher-becoming-a-father)*.
+- **[Nov 2025]** 🎤 Delivered an invited talk at the *Seminar on the Next Generation of LLMs for Code Generation* at **Korea University**, Seoul 🇰🇷.
+- **[Nov 2025]** 🎉 Our research proposal **"ANANSI"** was successfully awarded funding under the FNR CORE 2025 call!
+- **[Nov 2025]** 🎤 Presented our paper **"RAML"** at **ASE 2025** in Seoul, South Korea 🇰🇷.
+- **[Sep 2025]** 🎤 Presented our paper **"MalLoc"** at **ICSME 2025** in Auckland, New Zealand 🇳🇿.
+- **[Jun 2025]** 🎤 Presented our paper **"TIML"** at **FSE 2025** in Trondheim, Norway 🇳🇴.
+- **[Dec 2024]** 🚀 Started a new position as a Research Associate at the **University of Luxembourg** 🇱🇺.
+- **[Dec 2024]** 🎓 Successfully defended my PhD thesis: *"Boosting Android Malware Learning"* at the **University of Luxembourg** 🇱🇺.
+- **[Nov 2024]** 📚 Contributed a chapter to the book *"Malware Handbook of Prevention and Detection"*, now published!
+- **[Oct 2024]** 🎤 Presented our paper **"DexBERT"** at **ASE 2024** in Sacramento, USA 🇺🇸.
+- **[Oct 2024]** 🎤 Presented our paper **"DetectBERT"** at **ESEM 2024** in Barcelona, Spain 🇪🇸.
+- **[Jul 2024]** 🧠 Attended the **OxML Summer School** at the **University of Oxford**, UK 🇬🇧.
+- **[Jun 2024]** 🎤 Presented our paper **"LaFiCMIL"** at **NLDB 2024** in Turin, Italy 🇮🇹.
