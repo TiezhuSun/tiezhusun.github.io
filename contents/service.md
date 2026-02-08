@@ -3,6 +3,7 @@
 - *IEEE Transactions on Dependable and Secure Computing*
 - *ACM Transactions on Privacy and Security*
 - *Empirical Software Engineering* (Springer Nature)
+- *Knowledge and Information Systems* (Springer Nature)
 - *Software Quality Journal* (Springer Nature)
 
 #### Program Committee

@@ -1,5 +1,5 @@
 
-- **[Feb 2026]** 🚀 Joining the **Luxembourg Institute of Science and Technology (LIST)** as an R&T Scientist.
+- **[Feb 2026]** 🚀 Joined the **Luxembourg Institute of Science and Technology (LIST)** as an R&T Scientist.
 - **[Dec 2025]** ✍️ Delighted to have my story, *"Becoming a Researcher 👨‍🔬, Becoming a Father 🏡"*, featured in *[Backpropagate](https://www.backpropagate.me/p/tell-me-a-story-4-becoming-a-researcher-becoming-a-father)*.
 - **[Nov 2025]** 🎤 Delivered an invited talk at the *Seminar on the Next Generation of LLMs for Code Generation* at **Korea University**, Seoul 🇰🇷.
 - **[Nov 2025]** 🎉 Our research proposal **"ANANSI"** was successfully awarded funding under the FNR CORE 2025 call!
